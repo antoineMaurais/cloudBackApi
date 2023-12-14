@@ -1,5 +1,5 @@
 FROM express-gateway
-LABEL authors="hydre"
+LABEL authors="sylvain"
 
 WORKDIR /app
 COPY package*.json ./
